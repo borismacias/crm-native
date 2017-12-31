@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="increasecircle" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 232 232" style="enable-background:new 0 0 232 232;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g>
+	<path className="st0" d="M152,68c-2.2,0-4,1.8-4,4s1.8,4,4,4h18l-48.2,48.2l-20.5-20.5c-1.5-1.5-4.2-1.5-5.7,0l-50.8,50.8
+		c-1.6,1.6-1.6,4.1,0,5.7c0.8,0.8,1.8,1.2,2.8,1.2s2-0.4,2.8-1.2l48-48l20.5,20.5c0.8,0.8,1.8,1.2,2.8,1.2c1.1,0,2.1-0.4,2.8-1.2
+		L176,81.3V100c0,2.2,1.8,4,4,4s4-1.8,4-4V72c0-2.2-1.8-4-4-4H152z"/>
+	<path className="st0" d="M116,16C60.9,16,16,60.9,16,116s44.9,100,100,100s100-44.9,100-100S171.1,16,116,16z M116,208
+		c-50.7,0-92-41.3-92-92s41.3-92,92-92s92,41.3,92,92S166.7,208,116,208z"/>
+	<path className="st0" d="M116,224C56.4,224,8,175.6,8,116c0-2.2-1.8-4-4-4s-4,1.8-4,4c0,64,52,116,116,116c2.2,0,4-1.8,4-4
+		S118.2,224,116,224z"/>
+	<path className="st0" d="M116,0c-2.2,0-4,1.8-4,4s1.8,4,4,4c59.6,0,108,48.4,108,108c0,2.2,1.8,4,4,4s4-1.8,4-4C232,52,180,0,116,0z"/>
+</g>
+</svg>
